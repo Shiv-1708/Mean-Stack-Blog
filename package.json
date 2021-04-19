@@ -1,0 +1,29 @@
+{
+  "name": "angular-blog",
+  "version": "1.0.0",
+  "description": "Angular blog post",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shiv-1708/Mean-Stack-Blog.git"
+  },
+  "keywords": [
+    "Angular",
+    "blog",
+    "post",
+    "application"
+  ],
+  "author": "Shivansh Upadhyay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shiv-1708/Mean-Stack-Blog/issues"
+  },
+  "homepage": "https://github.com/Shiv-1708/Mean-Stack-Blog#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.4"
+  }
+}
